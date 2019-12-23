@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+#swal2-title.swal2-title{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: rgb(0, 0, 0) 2px 2px;
+    font-size: 25px;
+}
